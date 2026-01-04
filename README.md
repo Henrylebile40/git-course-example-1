@@ -5,4 +5,4 @@
 * git checkout 
 * git status
 * git diff 
-* Github practice exercises 
+* Github practice exercises (update)
